@@ -1,0 +1,1047 @@
+fileFormatVersion: 2
+guid: 7218a031e78661642ac9d65954cc7794
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: moneySpritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1785
+        width: 636
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585cec3566947e04aae371318ccf978a
+      internalID: -418474795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneySpritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1785
+        width: 636
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34edf9e8a8ef8a43b03653551e92633
+      internalID: 1800577838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneySpritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 1785
+        width: 636
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59abe3e031e271c4d93d879cd30bb2a0
+      internalID: 833272422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneySpritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 1785
+        width: 636
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc3280fcb24d28478cd417a0faa8042
+      internalID: -1126070513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneySpritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 2544
+        y: 1785
+        width: 636
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a43c1301c4fae40932e3b255539239
+      internalID: 161699199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneySpritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 1785
+        width: 636
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3346be921e26145a3bd4e083445826
+      internalID: -522246362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneySpritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 3816
+        y: 1785
+        width: 636
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e6d16e6dd598f4a8c9761ee15e7c80
+      internalID: 3163235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneySpritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1428
+        width: 636
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96aae8c2edb79947a7248d019bace00
+      internalID: 1823919683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneySpritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1428
+        width: 636
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca889368b8523f6428addbc2ff61db64
+      internalID: 2087427914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneySpritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 1428
+        width: 636
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846328de18b136d45b1518d2c5e1d2e1
+      internalID: -1664158724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneySpritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 1428
+        width: 636
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77706346680f274da237f9820b923c7
+      internalID: 719389271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneySpritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 2544
+        y: 1428
+        width: 636
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595e3b736ee7e0b499d51926cafebd96
+      internalID: 1255239110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneySpritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 1428
+        width: 636
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c393b41d891394481d2f8a21f61e7a
+      internalID: -1833578710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneySpritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 3816
+        y: 1428
+        width: 636
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ad55cae13ac1049af9e26914839838
+      internalID: 16545703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneySpritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1071
+        width: 636
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489791cf60475574da8add1a1ad34abb
+      internalID: -1078204838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneySpritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1071
+        width: 636
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579bf7df2b4d20b42b07c68f14767621
+      internalID: 236382480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneySpritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 1071
+        width: 636
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68856b31956d9b941aab7d226e721277
+      internalID: -1858893596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneySpritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 1071
+        width: 636
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be253f894b009a4894123f1c6580ace
+      internalID: 534561457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneySpritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 2544
+        y: 1071
+        width: 636
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76935d5f50a6f44faed8adf440ecd28
+      internalID: -1854017741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneySpritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 1071
+        width: 636
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c681c088b7fe4a243b0ad0de6da22f9e
+      internalID: -1024288354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneySpritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 3816
+        y: 1071
+        width: 636
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c5a034795b3d444b30f50a78f59369
+      internalID: -351887027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneySpritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 714
+        width: 636
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5b3a31a9f665641afe625ad6153b01
+      internalID: -1986088571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneySpritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 714
+        width: 636
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf7269afa4a46745bc06e35e731d3b2
+      internalID: 1766882408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneySpritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 714
+        width: 636
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e80212e57cba04a9c3c11367df67be
+      internalID: -1869259050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneySpritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 714
+        width: 636
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b752aa419dc4cc4880736022a32edc5
+      internalID: -54287155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneySpritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 2544
+        y: 714
+        width: 636
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3691316c2a0d14042bfde55917f1330d
+      internalID: 1929128006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneySpritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 714
+        width: 636
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b69a7bb083bbf4c8a178cfe906ff93
+      internalID: -501084884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneySpritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 3816
+        y: 714
+        width: 636
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193212b96f918e3429c355d193fa3073
+      internalID: -1743516256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneySpritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 357
+        width: 636
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae2846359e9f7743a0148ded8abcfb0
+      internalID: 216556182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneySpritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 357
+        width: 636
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944b0a5b830f70a4f9d23e3de13be79b
+      internalID: 854679840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneySpritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 357
+        width: 636
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637795f8cfe8dc34aa837eb250d6082d
+      internalID: 1825113909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneySpritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 357
+        width: 636
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af29588fef24b14aa37fc07f0bbc2c8
+      internalID: 1121430750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneySpritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 2544
+        y: 357
+        width: 636
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eba669ba6cc13d4c9915093343a4344
+      internalID: 1022384753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneySpritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 357
+        width: 636
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fc8bcd8714a6e4da4e7cd30a8b349c
+      internalID: -1969381947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneySpritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 3816
+        y: 357
+        width: 636
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f895f5d2f2750c47a2dfff991649daa
+      internalID: -1928824470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneySpritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 636
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c952e101ceb2f6d43b44b73c03338415
+      internalID: -524865113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneySpritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 0
+        width: 636
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c90cb5d9ec553d4c966d12f9e82a8a7
+      internalID: -1866084051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneySpritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 0
+        width: 636
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b1b25cb0f4eb4498c25d0a7a5a15f1
+      internalID: 1190470301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneySpritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 0
+        width: 636
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202306f858e16a0409ab5dc4e02c1ecb
+      internalID: 286600617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneySpritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 2544
+        y: 0
+        width: 636
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5da7f43743bf9644baaa91794ef80b4
+      internalID: -239039530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneySpritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 0
+        width: 636
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f31aa481bc8294f9a131184e9644ef
+      internalID: -1997370578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneySpritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 3816
+        y: 0
+        width: 636
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f349babc142b16c46a5aba2e6b995ebf
+      internalID: -1350201014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 30095a1a946d3e94f90c0e83ac355564
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      moneySpritesheet_37: 1190470301
+      moneySpritesheet_9: -1664158724
+      moneySpritesheet_3: -1126070513
+      moneySpritesheet_30: 1825113909
+      moneySpritesheet_32: 1022384753
+      moneySpritesheet_36: -1866084051
+      moneySpritesheet_24: -54287155
+      moneySpritesheet_7: 1823919683
+      moneySpritesheet_19: -1024288354
+      moneySpritesheet_20: -351887027
+      moneySpritesheet_14: -1078204838
+      moneySpritesheet_17: 534561457
+      moneySpritesheet_22: 1766882408
+      moneySpritesheet_25: 1929128006
+      moneySpritesheet_5: -522246362
+      moneySpritesheet_1: 1800577838
+      moneySpritesheet_4: 161699199
+      moneySpritesheet_15: 236382480
+      moneySpritesheet_11: 1255239110
+      moneySpritesheet_35: -524865113
+      moneySpritesheet_16: -1858893596
+      moneySpritesheet_28: 216556182
+      moneySpritesheet_38: 286600617
+      moneySpritesheet_29: 854679840
+      moneySpritesheet_27: -1743516256
+      moneySpritesheet_0: -418474795
+      moneySpritesheet_2: 833272422
+      moneySpritesheet_31: 1121430750
+      moneySpritesheet_40: -1997370578
+      moneySpritesheet_33: -1969381947
+      moneySpritesheet_21: -1986088571
+      moneySpritesheet_26: -501084884
+      moneySpritesheet_34: -1928824470
+      moneySpritesheet_41: -1350201014
+      moneySpritesheet_23: -1869259050
+      moneySpritesheet_6: 3163235
+      moneySpritesheet_10: 719389271
+      moneySpritesheet_12: -1833578710
+      moneySpritesheet_18: -1854017741
+      moneySpritesheet_13: 16545703
+      moneySpritesheet_8: 2087427914
+      moneySpritesheet_39: -239039530
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
